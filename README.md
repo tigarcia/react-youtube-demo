@@ -10,3 +10,7 @@ Fork, clone, then run:
 npm install
 npm start
 ```
+
+##### Error:
+
+![Error screenshot](./screenshot.png)
